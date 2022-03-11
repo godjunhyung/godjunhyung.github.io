@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: junhyung website
+title: godjunhyung website
 
 # Your name to show in the footer
-author: junhyung
+author: godjunhyung
 
 # --- List of links in the navigation bar --- #
 
@@ -42,7 +42,7 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: github.com/junhyung
+  github: github.com/godjunhyung
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
